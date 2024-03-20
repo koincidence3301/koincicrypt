@@ -18,5 +18,5 @@ none, just common sense
 
 ## credits:
  * Emergence - supplying code for Diana cipher
- * Taiiwo - Runic-To-Latin code 
+ * Taiiwo - Runic-To-Latin code from the Cicada Solvers discord bot
  * Smartacus - Vig Tables and tabular recta (`modified vig table`)
